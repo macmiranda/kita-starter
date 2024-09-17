@@ -9,8 +9,7 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -30,13 +29,6 @@ topSections:
 styles:
   title:
     textAlign: center
-seo:
-  metaTitle: Blog - Demo site
-  metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
-  type: Seo
 type: PostFeedLayout
 bottomSections: []
 postFeed:
