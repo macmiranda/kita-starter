@@ -76,7 +76,7 @@
             "altText": "Send",
             "url": "/",
             "showIcon": true,
-            "icon": "send",
+            "icon": "mail",
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
