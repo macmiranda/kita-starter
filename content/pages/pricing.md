@@ -115,9 +115,5 @@ sections:
       subtitle:
         textAlign: center
     type: PricingSection
-seo:
-  metaTitle: Kita Sturmtüten
-  metaDescription: Kita Sturmtüten
-  type: Seo
 type: PageLayout
 ---
