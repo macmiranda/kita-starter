@@ -118,7 +118,6 @@ sections:
 seo:
   metaTitle: Kita Sturmtüten
   metaDescription: Kita Sturmtüten
-  socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
 ---
