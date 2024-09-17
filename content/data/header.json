@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -25,7 +27,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         },
         {
             "label": "Careers",
@@ -67,27 +70,20 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        }
-    ],
-    "secondaryLinks": [
-        {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
         },
         {
-            "label": "Log in",
+            "type": "Link",
+            "label": "Send",
+            "altText": "Send",
             "url": "/",
-            "icon": "arrowRight",
+            "showIcon": false,
+            "icon": "mail",
             "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "style": "secondary",
+            "elementId": ""
         }
     ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
